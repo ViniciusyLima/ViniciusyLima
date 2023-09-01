@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Vinícius Lima 👨🏻‍💻</h1>
+<h1>Olá, eu sou o Vinícius Yonagusuku Lima 👨🏻‍💻</h1>
 <h7>Descendente Japônes 🎌</h7>
 <h4>Futuro Desenvolvedor Java 💻</h4>
 <b>Contato: </b>

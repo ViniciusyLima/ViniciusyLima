@@ -1,5 +1,4 @@
 <h1>Olá, eu sou o Vinícius Yonagusuku Lima 👨🏻‍💻</h1>
-<h7>Descendente Japônes 🎌</h7>
 <h4>Desenvolvedor Java 💻</h4>
 <b>Contato: </b>
 <a href="//www.linkedin.com/in/viniciusylima">Linkedin</a> | 

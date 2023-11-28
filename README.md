@@ -3,11 +3,10 @@
 <b>Contato: </b>
 <a href="//www.linkedin.com/in/viniciusylima">Linkedin</a> | 
 <a href="//api.whatsapp.com/send?phone=5511949878919">WhatsApp</a> |
-
+<br><br>
 <div>
-<a href="https://github.com/ViniciusyLima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username-ViniciusyLima&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-ViniciusyLima&layout-compact&langs_count=16&theme-dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusyLima&theme=dark&show_icons=true&hide_border=false&count_private=false"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusyLima&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <h3><Strong>Meus Conhecimentos</Strong></h3>

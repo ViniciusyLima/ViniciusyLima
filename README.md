@@ -5,8 +5,8 @@
 <a href="//api.whatsapp.com/send?phone=5511949878919">WhatsApp</a> |
 <br><br>
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusyLima&theme=dark&show_icons=true&hide_border=false&count_private=false"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusyLima&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusyLima&theme=dark&show_icons=true&hide_border=true&count_private=false"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusyLima&theme=tokyonight"/>
 </div>
 
 <h3><Strong>Meus Conhecimentos</Strong></h3>

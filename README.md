@@ -4,7 +4,7 @@
 <a href="//www.linkedin.com/in/viniciusylima">Linkedin</a> | 
 <a href="//api.whatsapp.com/send?phone=5511949878919">WhatsApp</a> |
 
-<h3><Strong>Meus Conhecimento</Strong></h3>
+<h3><Strong>Meus Conhecimentos</Strong></h3>
 ● <Strong>Java EE</Strong>.<br>					
 ● <Strong>Frameworks:</Strong> JSP/Servlets, JDBC, JPA, Spring Boot, WebServices(SOAP, REST).<br>					
 ● <Strong>HTML 5, CSS 3, JavaScript</Strong>.<br>					

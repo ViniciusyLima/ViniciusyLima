@@ -54,11 +54,11 @@
 [![](https://visitcount.itsvg.in/api?id=ViniciusyLima&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3><Strong>Meus Conhecimentos</Strong></h3>
-● <Strong>Java EE</Strong>.<br>					
-● <Strong>Frameworks:</Strong> JSP/Servlets, JDBC, JPA, Spring Boot, WebServices(SOAP, REST).<br>					
-● <Strong>HTML 5, CSS 3, JavaScript</Strong>.<br>					
-● <Strong>Ferramentas:</Strong> Eclipse, NetBeans, Postman.<br>					
-● <Strong>Bancos de dados:</Strong> mySQL.<br>
+● <Strong>Java EE, C#</Strong>.<br>					
+● <Strong>Frameworks:</Strong> JSP/Servlets, JDBC, JPA, Spring Framework, WebServices(SOAP, REST).<br>					
+● <Strong>HTML 5, CSS 3, JavaScript, jQuery</Strong>.<br>					
+● <Strong>Ferramentas:</Strong> Eclipse, NetBeans, Visual Code 2022, VS Code<br>					
+● <Strong>Bancos de dados:</Strong> mySQL, Postman..<br>
 ● <Strong>Repositório de versionamento de fontes:</Strong> GIT, GitHub.<br>	
 ● <Strong>Servidores de aplicação:</Strong> Tomcat.<br>
 

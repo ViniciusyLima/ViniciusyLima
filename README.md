@@ -51,7 +51,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusyLima&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wllysses&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ViniciusyLima&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3><Strong>Meus Conhecimentos</Strong></h3>
 ● <Strong>Java EE</Strong>.<br>					
